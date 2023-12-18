@@ -1,0 +1,86 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.keseluruhan {
+ 
+}
+
+.container-navbar{
+    background-color: rgb(121, 69, 185);
+    width: 100%;
+    height: 20vh;
+    font-size: large;
+}
+.ul-navbar {
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    text-decoration: none;
+    border-width: 100% !important;
+    list-style-type: none;
+    padding: 20px;
+    margin: 20px;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.li-navbar:hover {
+    background-color:rgb(251, 251, 251) ;
+    transition: .3s ease-in-out;
+    transition-delay: .2s;
+   
+
+}
+
+.a-navbar{
+    color: black;
+    text-decoration: none;
+   margin-left: 60px;
+
+}
+
+.bawah-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.bagian-img {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.arah-footer{
+    background-color: rgb(121, 69, 185);
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.bagian-footer {
+  font-size: xx-large;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

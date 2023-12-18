@@ -1,0 +1,59 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+.keseluruhan{
+    background-color:wheat
+}
+.bawah{
+   
+    width: 50%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    border-radius: 50%;
+   
+}
+
+.foto{
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+}    
+
+.bio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foto2{
+   
+}
+
+.ww {
+    height:20%;
+    width: 19%;
+    margin-left: 2%;
+    
+}
+.wwr{
+    height: 20%;
+    width: 19%;
+}
+.wwe{
+    height: 20%;
+    width: 19%;
+}
+.wwt{
+    height: 20%;
+    width: 19%;
+}
+.wwy{
+    height: 20%;
+    width: 19%;
+}
